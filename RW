@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Adele'sLife</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+}
+
+.header h1 {
+  font-size: 36px;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a.right {
+  float: right;
+}
+
+.navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.row {  
+  display: -ms-flexbox; 
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.main {   
+  -ms-flex: 70%;
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
+}
+
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Adele</h1>
+  <p>The Best Singer.</p>
+</div>
+
+<div class="row">
+  <div class="main">
+    <img src ="https://upload.wikimedia.org/wikipedia/commons/7/7c/Adele_2016.jpg" style= "width: 402px;height:534px">
+    <h2>Biography</h2>
+    <p>Adele is a British singer-songwriter who has sold millions of albums worldwide and won a total of 15 Grammys as well as an Oscar. Adele’s first two albums, 19 and 21, earned her critical praise and a level of commercial success unsurpassed among her peers. After becoming a mom in 2012, Adele returned to the charts with the ballad "Hello" in 2015, the lead single from what was dubbed her comeback album 25. In 2017, she won five Grammys for her work on 25, including album, record and song of the year.</p>
+    <br>
+    <h2>Achievement</h2>
+    <p>At the 51st Annual Grammy Awards in 2009, 21-year-old Adele won awards in the categories of Best New Artist and Best Female Pop Vocal Performance. She was also nominated in the categories of Record of the Year and Song of the Year. The success of her debut album 19 saw Adele nominated for three Brit Awards in the categories of British Female Solo Artist, British Single of the Year and British Breakthrough Act. Then British Prime Minister Gordon Brown sent a thank-you letter to Adele that stated "with the troubles that the country's in financially, you're a light at the end of the tunnel".</p>
+    <p>Adele's second album, 21, earned her a record-tying six Grammy Awards, including Album of the Year; two Brit Awards, including British Album of the Year. Adele was the second artist and first female, preceded by Christopher Cross, to have won all four of the general field awards throughout her career. The success of the album saw her receive numerous mentions in the Guinness Book of World Records. With 21 non-consecutive weeks at number 1 in the US, Adele broke the record for the longest number-1 album by a woman in Billboard history, beating the record formerly held by Whitney Houston's soundtrack The Bodyguard. 21 spent its 23rd week at number one in March 2012, making it the longest-running album at number one since 1985, and it became the fourth-best-selling album of the past 10 years in the US. The best selling album in the UK of the 21st century, and the best selling album by a female in UK chart history, 21 is also the second-best-selling album in the UK of all time. 21 was her first album certified diamond in the US. On 6 March, 21 reached 30 non-consecutive weeks at number one on the Australian ARIA Chart, making it the longest-running number one album in Australia in the 21st century, and the second longest-running number one ever.</p>
+    <p>In February 2012, Adele was listed at number five on VH1's 100 Greatest Women in Music. In April 2012, Time magazine named Adele one of the 100 most influential people in the world. People named her one of 2012 Most Beautiful at Every Age. On 30 April 2012, a tribute to Adele was held at New York City's (Le) Poisson Rouge called Broadway Sings Adele, starring various Broadway actors such as Matt Doyle. In July 2012, Adele was listed at number six in Forbes list of the world's highest-paid celebrities under the age of 30, having earned £23 million between May 2011 and May 2012.</p>
+    <p>In the week ending 3 March 2012, Adele became the first solo female artist to have three singles in the top 10 of the Billboard Hot 100 at the same time with "Rolling in the Deep", "Someone Like You", and "Set Fire to the Rain" as well as the first female artist to have two albums in the top 5 of the Billboard 200 and two singles in the top 5 of the Billboard Hot 100 simultaneously. Adele topped the 2012 Sunday Times Rich List of musicians in the UK under 30, and made the Top 10 of Billboard magazine's "Top 40 Money Makers". Billboard also announced the same day that Adele's "Rolling in the Deep" is the biggest crossover hit of the past 25 years, topping pop, adult pop and adult contemporary charts and that Adele is one of four female artists to have an album chart at number one for more than 13 weeks (the other three artists being Judy Garland, Carole King, and Whitney Houston).</p>
+    <p>At the 2012 Ivor Novello Awards in May, Adele was named Songwriter of the Year, and "Rolling in the Deep" won the award for Most Performed Work of 2011. At the 2012 BMI Awards held in London in October, Adele won Song of the Year (for "Rolling in the Deep") in recognition of the song being the most played on US television and radio in 2011. In 2013, Adele won the Academy Award for Best Original Song for the James Bond theme "Skyfall". This is the first James Bond song to win and the fifth to be nominated—after "For Your Eyes Only" (1981), "Nobody Does It Better" (1977), "Live and Let Die" (1973), and "The Look of Love" (1967). "Skyfall" won the Brit Award for Best British Single at the 2013 Brit Awards.</p>
+    <p>In June 2013, Adele was appointed a MBE in the Queen's Birthday Honours list for services to music, and she received the award from Prince Charles at Buckingham Palace on 19 December 2013. In February 2013 she was named one of the 100 most powerful women in the UK by Woman's Hour on BBC Radio 4. In April 2016, Adele appeared for the second time on the Time 100 list of most influential people. In 2014, Adele was already being regarded as a British cultural icon, with young adults from abroad naming her among a group of people whom they most associated with UK culture, which included William Shakespeare, Queen Elizabeth II, David Beckham, J. K. Rowling, The Beatles, Charlie Chaplin and Elton John.</p>
+    <p>Released in 2015, Adele's third album, 25, became the year's best-selling album and broke first week sales records in a number of markets, including the UK and the US. 25 was her second album to be certified diamond in the US and earned her five Grammy Awards, including her second Grammy Award for Album of the Year, and four Brit Awards for British Female Solo Artist, British Album of the Year, British Single of the Year for "Hello", and British Global Success. Adele became the only artist in history to, on two separate occasions, win the three general categories Grammys in the same ceremony. With 15 awards from 18 nominations, Adele won more Grammys than any other female who was born outside the U.S. Adele's seven weeks at the top of the UK Albums Chart took her total to 31 weeks at number one in the UK with her three albums, surpassing Madonna's previous record of most weeks at number one for a female act in the UK. The lead single, "Hello", became the first song in the US to sell over one million digital copies within a week of its release. At the 2016 Ivor Novello Awards Adele was named Songwriter of the Year by the British Academy of Songwriters, Composers, and Authors. As of 6 August 2019, despite releasing just two albums in the decade (21 and 25), at 36 weeks she has the second most weeks at number one in the UK Album Charts in the 2010s, five weeks behind Ed Sheeran (who has released four albums). In December 2019, Israel's largest TV and radio stations named her singer of the 2010s. In 2021, Adele was named the UK's best-selling female album artist of the 21st century, based on Official Charts Company data.</p>
+  </div>
+</div>
+
+</body>
+</html>
